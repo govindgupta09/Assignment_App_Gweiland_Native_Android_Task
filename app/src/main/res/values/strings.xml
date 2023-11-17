@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="first_name">First Name *</string>
+    <string name="last_name">Last Name *</string>
+    <string name="gender">Gender *</string>
+    <string name="age">Age *</string>
+    <string name="save">Save</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="profile_image">Profile_Image</string>
+</resources>
